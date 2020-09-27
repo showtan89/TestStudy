@@ -22,6 +22,6 @@ public class MemberController {
 			
 			model.addAttribute("cnt", 2); // 환영합니다.
 			
-			return "member/main";
+			return "main";
 		}
 }
