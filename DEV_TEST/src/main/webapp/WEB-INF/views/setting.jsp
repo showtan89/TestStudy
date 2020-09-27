@@ -9,7 +9,7 @@
      value = "/컨텍스트명/resources/ 
      src/main/webapp가 JSP의 루트가 된다.
 -->
-<c:set var="path" value="/member_mybatis/resources/" />   
+<c:set var="path" value="/a/resources/" />   
 <script src="${path}script.js"></script>
 <link type="text/css" rel="stylesheet" href="${path}style.css">
    
